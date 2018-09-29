@@ -1,4 +1,4 @@
-#Tic Tac Toe
+# Tic Tac Toe
 This is a project for the Free Code Camp assignment. I used the module patern to build it.
 ```
 const app = (function(){
