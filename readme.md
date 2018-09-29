@@ -10,4 +10,4 @@ const app = (function(){
   };
 })()
 ```
-The AI uses the mini max alghorithm and it can't be beaten.
+The AI uses the mini max alghorithm and it can't be beaten. You can [play the game](https://97ashrey.github.io/tictactoe/) and try.
