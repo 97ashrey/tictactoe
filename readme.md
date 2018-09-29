@@ -10,4 +10,4 @@ const app = (function(){
   };
 })()
 ```
-The AI uses the mini max alghorithm and i can't be beaten.
+The AI uses the mini max alghorithm and it can't be beaten.
